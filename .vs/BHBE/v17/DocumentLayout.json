@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|c:\\users\\manuel\\documents\\sources\\interviewtests\\capgimini\\capg\\bhbe\\controllers\\trasationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|solutionrelative:controllers\\trasationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|c:\\users\\manuel\\documents\\sources\\interviewtests\\capgimini\\capg\\bhbe\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|c:\\users\\manuel\\documents\\sources\\interviewtests\\capgimini\\capg\\bhbe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|c:\\users\\manuel\\documents\\sources\\interviewtests\\capgimini\\capg\\bhbe\\models\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|solutionrelative:models\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|c:\\users\\manuel\\documents\\sources\\interviewtests\\capgimini\\capg\\bhbe\\models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|solutionrelative:models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|c:\\users\\manuel\\documents\\sources\\interviewtests\\capgimini\\capg\\bhbe\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|solutionrelative:models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|c:\\users\\manuel\\documents\\sources\\interviewtests\\capgimini\\capg\\bhbe\\controllers\\alldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|solutionrelative:controllers\\alldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|c:\\users\\manuel\\documents\\sources\\interviewtests\\capgimini\\capg\\bhbe\\bhbe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|solutionrelative:bhbe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|c:\\users\\manuel\\documents\\sources\\interviewtests\\capgimini\\capg\\bhbe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{790D5179-842F-4303-B07B-6E7FF34C7B68}|BHBE.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllData.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\Controllers\\AllData.cs",
+              "RelativeDocumentMoniker": "Controllers\\AllData.cs",
+              "ToolTip": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\Controllers\\AllData.cs",
+              "RelativeToolTip": "Controllers\\AllData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:20:17.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\Models\\Transactions.cs",
+              "RelativeDocumentMoniker": "Models\\Transactions.cs",
+              "ToolTip": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\Models\\Transactions.cs",
+              "RelativeToolTip": "Models\\Transactions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:58:30.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Accounts.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\Models\\Accounts.cs",
+              "RelativeDocumentMoniker": "Models\\Accounts.cs",
+              "ToolTip": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\Models\\Accounts.cs",
+              "RelativeToolTip": "Models\\Accounts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:54:37.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrasationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\Controllers\\TrasationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrasationsController.cs",
+              "ToolTip": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\Controllers\\TrasationsController.cs",
+              "RelativeToolTip": "Controllers\\TrasationsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:36:24.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:21:44.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T10:54:43.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "Models\\Customers.cs",
+              "ToolTip": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\Models\\Customers.cs",
+              "RelativeToolTip": "Models\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:18:05.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:40:28.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BHBE",
+              "DocumentMoniker": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\BHBE.csproj",
+              "RelativeDocumentMoniker": "BHBE.csproj",
+              "ToolTip": "C:\\Users\\Manuel\\Documents\\Sources\\InterviewTests\\Capgimini\\Capg\\BHBE\\BHBE.csproj",
+              "RelativeToolTip": "BHBE.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T17:43:55.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@BHBE_HostAddress = http://localhost:5066
+
+GET {{BHBE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
